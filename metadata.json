@@ -1,0 +1,7 @@
+{
+  "name": "ZenTask - AI Daily Assistant",
+  "description": "A beautiful desktop-widget style app for task management, focus timers, wellness reminders, and AI-powered daily summaries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
